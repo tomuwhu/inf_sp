@@ -19,16 +19,16 @@
 ## Oktatott tárgyak
 
 - [Algoritmizálás](oktatas/algo)
-- [Elemi Informatika 1](./eli1.html)
-- [Elemi Informatika 2](./eli2.html)
-- [Informatikai alapismeretek](./mwt.html)
-- [Informatikai alkalmazások](./infalk.html)
-- [Oktatást Támogató Informatikai Rendszerek](./otir.html)
-- [Problémamegoldó szeminárium](./pmsz.html)
-- [Szakmódszertan 1](./szmt1.html)
-- [Számítástechnikai alapismeretek](./sztai.html)
+- [Elemi Informatika 1](./)
+- [Elemi Informatika 2](./)
+- [Informatikai alapismeretek](./)
+- [Informatikai alkalmazások](./)
+- [Oktatást Támogató Informatikai Rendszerek](./)
+- [Problémamegoldó szeminárium](./)
+- [Szakmódszertan 1](./)
+- [Számítástechnikai alapismeretek](./)
 
 ## Példaprogramok
 
-- [Algoritmusok](../examples/algoexamples/)
-- [JavaScript](../examples/webexamples/)
+- [Algoritmusok](https://www.inf.u-szeged.hu/~tnemeth/examples/algoexamples/)
+- [JavaScript](https://www.inf.u-szeged.hu/~tnemeth/examples/webexamples/)

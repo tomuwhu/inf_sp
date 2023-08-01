@@ -39,7 +39,7 @@
 - Amortizációs költségelemzés.
 - Kettős adatszerkezetek.
 
-### 6.3 Nevezetes informatikai problémák és algoritmusok
+## Nevezetes informatikai problémák és algoritmusok
 
 - Mintaillesztés: automatával, Knuth-Morris-Pratt algoritmus.
 - Hátizsák feladat, tükörszó probléma.
@@ -69,9 +69,9 @@
   - véletlenített online algoritmusok
   - online tanuló algoritmusok
 
-### Külső hivatkozások
+## Külső hivatkozások
 
-- [Példaprogramok](/examples/webexamples/)
+- [Példaprogramok](https://www.inf.u-szeged.hu/~tnemeth/examples/algoexamples/)
 - Gyakorló feladatok, felületek
   - [NemesTihamér versenyfeladatok](http://tehetseg.inf.elte.hu/nemes-online/index.html)
   - [Mester](http://mester.inf.elte.hu/)
