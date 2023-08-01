@@ -13,11 +13,11 @@ const config = defineConfig({
           // Add your sidebar configs here
         },
         github: 'https://github.com/Blackman99/sveltepress',
-        logo: '/sveltepress.svg',
+        logo: '/logo_intezet.jpg',
       }),
       siteConfig: {
-        title: 'Sveltepress',
-        description: 'A content centered site build tool',
+        title: 'Dr. Németh Tamás',
+        description: 'Szegedi Tudományegyetem',
       },
     }),
   ],

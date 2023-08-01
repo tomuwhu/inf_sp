@@ -1,17 +1,20 @@
 ---
-title: Welcome to Sveltepress
-heroImage: /sveltepress@3x.png
-tagline: A simple, easy to use content centered site build tool with the full power of Sveltekit.
+title: Personal Page
+heroImage: /profile.png
+tagline: Természettudomámyi és Informatikai Kar, Informatikai Intézet, Árpád tér 2. 42-es szoba.
 actions:
   - label: View on github
     type: primary
-    to: https://github.com/Blackman99/sveltepress
+    to: https://github.com/tomuwhu/inf_sp
     external: true
 features:
-  - title: Markdown centered
-    description: To help you can start writing with minimal configuration
-  - title: Build with Sveltekit
-    description: Preserve the full power of Sveltekit. So that you can do more than SSG
-  - title: Svelte in Markdown
-    description: Feel free to use svelte in markdown. Explore infinite possibilities.
+  - title: Oktatás
+    description: Oktatott tárgyak, érintett képzések
+    link: /oktatas
+  - title: Kutatás
+    description: Online algoritmusok / Gráfelméleti algoritmusok / Informatia szakmódszertan
+    link: /kutatas
+  - title: Curriculum Vitae
+    description: Egyetemi adjunktus
+    link: /cv
 ---
