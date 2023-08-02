@@ -1,6 +1,6 @@
 ---
 title: Personal Page
-heroImage: /profile.png
+heroImage: ./profile.png
 tagline: Természettudomámyi és Informatikai Kar, Informatikai Intézet, Árpád tér 2. 42-es szoba.
 actions:
   - label: View on github
